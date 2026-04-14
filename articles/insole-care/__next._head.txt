@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/1163ye2c0sw.j.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/1163ye2c0sw.j.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/_next/static/chunks/1163ye2c0sw.j.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"インソールの正しい使い方・洗い方・寿命まとめ【長持ちさせるコツ】 | ソールラボ"}],["$","meta","1",{"name":"description","content":"インソールの正しい使い方・装着方法・サイズ調整から、素材別の洗い方・乾燥方法、寿命の目安・交換サインまで徹底解説。ダイエットインソールを長持ちさせるお手入れのコツや、ピットソール・ランウェイキュアソール・スリムアップインソールの製品別ケア方法も紹介。"}],["$","link","2",{"rel":"canonical","href":"https://sole-laboratory.com/articles/insole-care/"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qkQzPre3HExalNx1oN2Ly"}
